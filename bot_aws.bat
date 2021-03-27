@@ -1,0 +1,1 @@
+"C:\Users\Admin\AppData\Local\UiPath\app-20.10.6\UiRobot.exe" -file "C:\Users\Admin\Documents\UiPath\CrawlAWS\Main.xaml"
